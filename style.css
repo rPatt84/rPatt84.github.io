@@ -195,6 +195,10 @@ header #header-contents ul .current {
   margin: 5px;
 }
 
+#main-container #contents-container #roman-numeral-converter{
+  background-image: url(img/rnc-img.png) no-repeat center center;
+}
+
 #main-container #contents-container .project-card:hover {
   background-blend-mode: lighten;
   border: 2px outset var(--accent-color);
