@@ -360,7 +360,7 @@ header #header-contents ul .current {
     justify-content: flex-start;
     width: 100%;
     font-size: 18px;
-    transform: skewY(-1deg);
+    transform: skewY(0, -1deg);
     margin-top: -1%;
     font-size: 10px;
   }
