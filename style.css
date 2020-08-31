@@ -195,7 +195,7 @@ header #header-contents ul .current {
 }
 
 #main-container #contents-container #roman-numeral-converter{
-    background: url(img/rnc-img.png) no-repeat center center;
+    background: rgba(0,0,0, .5) url(img/rnc-img.png) no-repeat center center;
     background-size: cover;
 }
 
