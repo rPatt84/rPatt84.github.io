@@ -332,7 +332,6 @@ header #header-contents ul .current {
     left: -16px;
   }
   header #header-contents p {
-    text-decoration: underline var(--secondary-color);
     padding-right: 10vw;
   }
   header #header-contents ul {
