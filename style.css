@@ -188,7 +188,6 @@ header #header-contents ul .current {
 }
 
 #main-container #contents-container .project-card {
-  background: var(--card-color);
   border: 1px solid var(--accent-color);
   height: 200px;
   width: 150px;
@@ -196,7 +195,7 @@ header #header-contents ul .current {
 }
 
 #main-container #contents-container #roman-numeral-converter{
-    background: url(img/rnc-img.png) no-repeat center center;
+    background: url(../img/rnc-img.png) no-repeat center center;
     background-size: cover;
 }
 
