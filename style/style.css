@@ -197,6 +197,7 @@ header #header-contents #nav-ul .current {
   width: 150px;
   margin: 5px;
   color: var(--primary-color);
+  text-align: center;
 }
 
 #main-container #contents-container .project-card a {
