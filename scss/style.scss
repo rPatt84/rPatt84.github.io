@@ -216,7 +216,7 @@ header {
         .project-card a {
             color: var(--primary-color);
         }
-        
+
         .project-card:hover {
             background-blend-mode: lighten;
             border: 2px outset var(--accent-color);
@@ -227,7 +227,7 @@ header {
             background: url(../img/rnc-img.png) no-repeat center center;
             background-size: cover;
         }
-        
+
         #snake-game {
             background: url(../img/snake-img.png) no-repeat center center;
             background-size: cover;

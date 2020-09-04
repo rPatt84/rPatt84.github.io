@@ -171,8 +171,7 @@ header #header-contents #nav-ul .current {
   height: auto;
   text-align: center;
   display: grid;
-  grid-template-areas: "grid-header grid-header grid-header"
- "g1 g2 g3";
+  grid-template-areas: "grid-header grid-header grid-header" "g1 g2 g3";
 }
 
 #main-container #contents-container #skills-container .grid-header {
@@ -216,8 +215,9 @@ header #header-contents #nav-ul .current {
 }
 
 #main-container #contents-container #snake-game {
-  background: url(../img/snake-game.png) no-repeat center center;
+  background: url(../img/snake-img.png) no-repeat center center;
   background-size: cover;
+}
 
 #main-container #contents-container #contact-me {
   display: flex;
