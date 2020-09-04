@@ -214,7 +214,7 @@ header #header-contents #nav-ul .current {
 }
 
 #main-container #contents-container #snake-game {
-  background: url(../img/snake-game) no-repeat center center;
+  background: url(../img/snake-game.png) no-repeat center center;
   background-size: cover;
 
 #main-container #contents-container #contact-me {
