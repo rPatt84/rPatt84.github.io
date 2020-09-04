@@ -196,7 +196,11 @@ header #header-contents #nav-ul .current {
   height: 200px;
   width: 150px;
   margin: 5px;
+  color: var(--primary-color);
 }
+
+#main-container #contents-container .project-card a {
+  color: var(--primary-color);
 
 #main-container #contents-container .project-card:hover {
   background-blend-mode: lighten;
