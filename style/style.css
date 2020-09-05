@@ -199,18 +199,23 @@ header #header-contents #nav-ul .current {
   text-align: center;
 }
 
-#main-container #contents-container .project-card a {
-  color: var(--primary-color);
-}
-
 #main-container #contents-container .project-card:hover {
-  background-blend-mode: lighten;
   border: 2px outset var(--accent-color);
   animation: .3s linear forwards scale-it;
 }
 
 #main-container #contents-container #roman-numeral-converter {
   background: url(../img/rnc-img.png) no-repeat center center;
+  background-size: cover;
+}
+
+#main-container #contents-container #random-quote-machine {
+  background: url(../img/random-quote-machine-img.png) no-repeat center center;
+  background-size: cover;
+}
+
+#main-container #contents-container #focus-cameras {
+  background: url(../img/focus-cameras-img.png) no-repeat center center;
   background-size: cover;
 }
 

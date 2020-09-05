@@ -213,18 +213,24 @@ header {
             text-align: center;
         }
 
-        .project-card a {
-            color: var(--primary-color);
-        }
-
         .project-card:hover {
-            background-blend-mode: lighten;
             border: 2px outset var(--accent-color);
             animation: .3s linear forwards scale-it;
         }
 
+        //background for Individual Project cards(projects page)
         #roman-numeral-converter {
             background: url(../img/rnc-img.png) no-repeat center center;
+            background-size: cover;
+        }
+
+        #random-quote-machine {
+            background: url(../img/random-quote-machine-img.png) no-repeat center center;
+            background-size: cover;
+        }
+
+        #focus-cameras {
+            background: url(../img/focus-cameras-img.png) no-repeat center center;
             background-size: cover;
         }
 
@@ -232,6 +238,7 @@ header {
             background: url(../img/snake-img.png) no-repeat center center;
             background-size: cover;
         }
+        
 
         //contact page
 
